@@ -45,7 +45,7 @@ _En esta ùltima se observa màs a detalle la parte de las materia, junto con lo
 
 
 
-## Construido con ✒️🛠️
+## Construido por✒️🛠️
 
 
 * **Nombre Completo** - *Maria Guadalupe Espinoza Garcia*
