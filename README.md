@@ -42,10 +42,10 @@ _En esta segunda captura se registra el resultado obtenido cada vez que se pulsa
 
 
 
-## Construido con ✒️🛠️
+## Construido por: ✒️🛠️
 
 
-* **Nombre Completo** - *Maria Guadalupe Espinoza Garcia*
+* **Nombre Completo** - *Maria Guadalupe Espinoza Garcia *
 <p align="left"><img src="https://user-images.githubusercontent.com/107955084/193477951-13aed67f-cab9-47f7-9a3e-a281afda8235.jpg" width="10%"/></p>
 
 ## Versiòn 📌
